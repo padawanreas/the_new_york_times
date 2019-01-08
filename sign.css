@@ -1,0 +1,25 @@
+.sign-in{
+  grid-column: 1/4;
+  grid-row: 3;
+  margin-top: -400px ;
+  margin-left:1050px;
+  width: 300px;
+  height: 300px;
+}
+.sign-in h1{
+  font-size: 19px;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+.sign-in p{
+  font-size: 15px;
+}
+.btn3{
+  color:white;
+  border:none;
+  box-sizing:none;
+  width: 180px;
+  height: 30px;
+  font-size: 15px;
+  font-weight: bold;
+}

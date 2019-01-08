@@ -1,0 +1,73 @@
+.navbar {
+  grid-column: 1 / 5;
+  grid-row: 1;
+  background-color: white;
+  border: 1px solid #E1E1E1;
+  position: fixed;
+  width: 100%;
+  height: 60px;
+}
+.flex-icons {
+  display: flex;
+  justify-content: flex-start;
+  margin: 20px 20px;
+}
+.flex-icons li{
+  list-style: none;
+  margin-right: 20px;
+}
+
+.logo-ny img{
+  width: 30%;
+  margin-top: -137px;
+  margin-left: 400px;
+}
+.space-link{
+  display: flex;
+}
+.space-link p{
+  margin: -45px 100px;
+  font-weight: bold;
+  font-family: serif;
+}
+.space-link a{
+  text-decoration: none;
+  color: black;
+}
+.space-link a:hover{
+  text-decoration: underline;
+}
+.btn{
+  display: flex;
+  justify-content:flex-end;
+}
+
+button{
+  background-color: blue;
+  border-style: none;
+  border: 1px solid black;
+  border-radius: 3px;
+  margin-right: 20px;
+  margin-top: -150px;
+}
+button:hover{
+  background-color: darkblue;
+}
+.btn1{
+  text-align: center;
+  font-size: 10px;
+  color: white;
+  width: 100px;
+  height: 35px;
+  padding:5px 5px;
+  font-weight: bold;
+}
+.btn2{
+  text-align: center;
+  font-size: 10px;
+  color: white;
+  width: 50px;
+  height: 35px;
+  padding:5px 5px;
+  font-weight: bold;
+}

@@ -1,0 +1,68 @@
+.edit{
+  grid-column: 2/4;
+  grid-row: 4;
+  margin-top: -500px ;
+  margin-left:1050px;
+  margin-right: 50px;
+  width: 300px;
+  height: 300px;
+}
+.edit-text h1{
+  font-size: 15px;
+  font-weight: bold;
+  font-family: sans-serif;
+  border-bottom: 1px solid grey;
+  padding: 10px 10px 10px 10px;
+}
+.un,.deux,.trois{
+  width: 60px;
+  height: 60px;
+  background-color: grey;
+  margin: 10px 10px 10px 10px;
+
+}
+.un p{
+  margin-top: 5px;
+  margin-left: 80px;
+  font-size: 15px;
+  margin-right: -150px;
+  color:black;
+}
+.un a{
+  text-decoration: none;
+  color:black;
+}
+.un a:hover{
+  text-decoration: underline;
+  color:black;
+}
+.deux p{
+  margin-top: 5px;
+  margin-left: 80px;
+  font-size: 15px;
+  margin-right: -150px;
+  color:black;
+}
+.deux a{
+  text-decoration: none;
+  color:black;
+}
+.deux a:hover{
+  text-decoration: underline;
+  color:black;
+}
+.trois p{
+  margin-top: 5px;
+  margin-left: 80px;
+  font-size: 15px;
+  margin-right: -150px;
+  color:black;
+}
+.trois a{
+  text-decoration: none;
+  color:black;
+}
+.trois a:hover{
+  text-decoration: underline;
+  color:black;
+}
